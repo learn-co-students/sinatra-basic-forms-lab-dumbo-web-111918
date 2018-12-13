@@ -23,8 +23,8 @@ submission, view the puppy's information.
 breed, and age attributes. You will need to be able to pass these three
 attributes to initialization, as well as readers or accessors for the attributes.
 
-2. In `app.rb` build out a GET request to load a homepage. The homepage
-should go to the main route `/`. 
+<!-- 2. In `app.rb` build out a GET request to load a homepage. The homepage
+should go to the main route `/`.  -->
 
 3. The home page will also need a new view `index.erb`. This page should
 welcome you to the Puppy Adoption Site. Add this view to the controller action. 
